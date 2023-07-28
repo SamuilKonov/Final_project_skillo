@@ -35,8 +35,5 @@ public class test2 extends BaseMethod {
         PostModal postModal = new PostModal(driver);
         postModal.fillPublicInfoField("Samito");
         postModal.saveButton();
-
-        System.out.println("6.Verify the info is changed");
-
     }
 }

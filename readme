@@ -23,7 +23,6 @@ Test Scenarios Steps:
   3.Go to profile page
   4.Click on edit profile button
   5.Clear and fill the public info field
-  6.Verify the info is changed
 
 -Test3 - Change profile photo
   1.Go to homepage
@@ -32,7 +31,7 @@ Test Scenarios Steps:
   4.Click and change profile photo
   5.Check in green pop-up
 
--Test4 -
+-Test4 - Write a comment
   1.Go to homepage
   2.Login with existing user
   3.Go to profile page
