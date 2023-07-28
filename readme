@@ -1,0 +1,49 @@
+Final project (maven/testng) by Samuil Konov
+
+The project is about testing the functionalities in the www.training.skillo-bg.com webpage.
+
+Test Scenarios Steps:
+
+-Test1 - Create a new post
+  1.Go to home page
+  2.Login with existing user
+  3.Go to profile page and get existing counts of posts
+  4.Go to new post page
+  5.Upload a new picture
+  6.Verify that this picture is visible
+  7.Verify the name of the picture is correct
+  8.Populate the post caption
+  9.Click create post
+  10.Verify the post number is correct
+  11.Open the last post
+
+-Test2 - Change public info
+  1.Go to homepage
+  2.Login with existing user
+  3.Go to profile page
+  4.Click on edit profile button
+  5.Clear and fill the public info field
+  6.Verify the info is changed
+
+-Test3 - Change profile photo
+  1.Go to homepage
+  2.Login with existing user
+  3.Go to profile page
+  4.Click and change profile photo
+  5.Check in green pop-up
+
+-Test4 -
+  1.Go to homepage
+  2.Login with existing user
+  3.Go to profile page
+  4.Open the latest post
+  5.Commenting the post
+  6.Confirmation the comment is displayed
+
+-Test5 - Delete post
+  1.Go to homepage
+  2.Login with existing user
+  3.Go to profile page
+  4.Select last post
+  5.Click delete and yes
+  6.Check the pop-up confirmation

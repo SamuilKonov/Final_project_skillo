@@ -1,0 +1,11 @@
+<suite name="Web test suite" verbose="1">
+    <test name="Tests">
+        <classes>
+            <class name="tests.test1"></class>
+            <class name="tests.test2"></class>
+            <class name="tests.test3"></class>
+            <class name="tests.test4"></class>
+            <class name="tests.test5"></class>
+        </classes>
+    </test>
+</suite>
